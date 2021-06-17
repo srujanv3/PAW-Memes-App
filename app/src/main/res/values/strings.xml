@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PAW - Memes</string>
+
+    <string-array name="array_one">
+        <item>Loki</item>
+        <item>SpongeBob</item>
+        <item>Mirzapur</item>
+        <item>Joker</item>
+    </string-array>
+
+</resources>
